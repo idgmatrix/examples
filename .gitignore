@@ -1,5 +1,7 @@
 dcgan/data
 data
+dataset
+*.pth
 *.pyc
 OpenNMT/data
 cpp/mnist/build
